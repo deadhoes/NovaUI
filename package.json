@@ -1,0 +1,31 @@
+{
+  "name": "novacss",
+  "version": "1.0.0",
+  "description": "A modern, lightweight CSS UI framework with components like buttons, dropdowns, modals, and more.",
+  "main": "dist/nova.min.css",
+  "scripts": {
+    "build:css": "echo \"Add your CSS build command here\"",
+    "build:js": "echo \"Add your JS build command here\"",
+    "build": "npm run build:css && npm run build:js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/novacss.git"
+  },
+  "keywords": [
+    "css",
+    "ui-framework",
+    "modern-css",
+    "responsive",
+    "dropdown",
+    "buttons",
+    "modals"
+  ],
+  "author": "İlke Mert Safi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/novacss/issues"
+  },
+  "homepage": "https://github.com/username/novacss#readme"
+}
